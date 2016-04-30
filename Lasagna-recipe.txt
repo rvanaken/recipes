@@ -1,0 +1,10 @@
+Ingredients:
+ - Pasta
+ - Sauce
+ - Turkey burger
+ - Cheeze
+
+Directions:
+ 1. Boil pasta.
+ 2. Put all in baking dish.
+ 3. Bake.
